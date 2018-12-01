@@ -6,7 +6,7 @@ Year: 2018
 ******************************************/
 
 //Auto Quote Interval Speed
-const quoteSpeed = 10000;
+const quoteSpeed = 8000;
 
 //Created a quotes array to store quote objects
 const quotes = [
